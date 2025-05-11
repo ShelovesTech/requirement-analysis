@@ -1,0 +1,1 @@
+As a software engineer , it is essential for you to know in detail why you are developing an app or website that is why requirement analysis is crucial. It helps you to gather requirements, analyze them and have a clear direction . 
