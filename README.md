@@ -1,6 +1,6 @@
 As a software engineer , it is essential for you to know in detail why you are developing an app or website that is why requirement analysis is crucial. It helps you to gather requirements, analyze them and have a clear direction . 
 
- What is Requirement Analysi
+ What is Requirement Analysis?
 Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed. This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
 
 Why is Requirement Analysis Important?
